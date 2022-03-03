@@ -1,0 +1,5 @@
+promt the user for the size of the grid (min 16 and max 64)
+create a for loop that that adds divs to the html grid class
+set the display of the divs to grid using css 
+loop over each created div and add a hover function that changes the colour of the div from white to black
+create a button that when pressed loops over every div and changes its color back to white
